@@ -3,7 +3,8 @@
     "41d56152-25f8-4252-bab2-2f4a929ebab8": {
       "label": "Filling Station 2",
       "is_offline": false,
-      "file_url": "https://www.youtube.com/watch?v=_R00RKGvrD4"
+      "file_url": "https://www.youtube.com/watch?v=_R00RKGvrD4",
+      "duration": 110
     }
   },
   "auto_generate_web_page": true,
@@ -21,6 +22,6 @@
   ],
   "created_at": "2024-09-30T13:37:31.837Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-30T13:38:16.351Z",
+  "updated_at": "2024-09-30T15:11:55.736Z",
   "updated_by": "absempere"
 }
