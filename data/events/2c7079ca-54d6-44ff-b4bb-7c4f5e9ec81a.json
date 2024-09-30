@@ -3,7 +3,8 @@
     "56a76fa1-34bb-4747-9e3f-dc50fa776b7b": {
       "label": "Bishop Moose 78",
       "is_offline": false,
-      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/PS3503I785A6x1978/10_the_moose.mp3"
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/PS3503I785A6x1978/10_the_moose.mp3",
+      "duration": 442
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +23,6 @@
   ],
   "created_at": "2024-09-30T13:37:31.837Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-30T13:37:52.176Z",
+  "updated_at": "2024-09-30T15:10:27.722Z",
   "updated_by": "absempere"
 }
