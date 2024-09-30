@@ -3,7 +3,8 @@
     "47dba8c2-bfdd-47f3-971d-c73c2754515a": {
       "label": "Bidart Moose 1979",
       "is_offline": false,
-      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/bishop_1979/FrankBidart2.mp3"
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/bishop_1979/FrankBidart2.mp3",
+      "duration": 358
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +23,6 @@
   ],
   "created_at": "2024-09-30T13:37:31.837Z",
   "created_by": "absempere",
-  "updated_at": "2024-09-30T13:38:26.475Z",
+  "updated_at": "2024-09-30T15:10:53.299Z",
   "updated_by": "absempere"
 }
