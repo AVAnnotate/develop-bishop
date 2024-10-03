@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creating a test annotation in the test annotation layer"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "de1dff70-fd6f-4a1b-b2e2-9d6ff75be3ad"
+    }
+  ],
   "event_id": "73b63414-a6e4-4dd5-b5a4-d2ef246b9443",
   "set": "Test",
   "source_id": "fbd2b4e6-3688-4d80-847f-d43813a11500"
