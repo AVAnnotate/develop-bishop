@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Punctuation used like musical notation -- an exclamation and then a rest"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98157d59-54e4-46c4-8372-fe09bd5ecd0b"
+    }
+  ],
   "event_id": "73b63414-a6e4-4dd5-b5a4-d2ef246b9443",
   "set": "Comments",
   "source_id": "fbd2b4e6-3688-4d80-847f-d43813a11500"
