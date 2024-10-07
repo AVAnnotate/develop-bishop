@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Punctuation"
+        }
+      ],
       "uuid": "98157d59-54e4-46c4-8372-fe09bd5ecd0b"
     }
   ],

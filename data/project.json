@@ -1,1 +1,56 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","title":"Bishop (Develop)","description":"This version of the project is on the develop branch.","language":"en","slug":"develop-bishop","creator":"absempere","authors":"Anindita Basu Sempere","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"},{"category":"Reactions","color":"#ADFEFF"},{"color":"#F7ED78","category":"Notes"}],"tags":[{"tag":"Elizabeth Bishop","category":"Speaker"},{"tag":"Audience laughter","category":"Reactions"},{"tag":"Bishop laughter","category":"Reactions"},{"category":"Notes","tag":"Punctuation"}]},"created_at":"2024-09-30T13:20:19.097Z","updated_at":"2024-10-07T16:24:50.990Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "title": "Bishop (Develop)",
+    "description": "This version of the project is on the develop branch.",
+    "language": "en",
+    "slug": "develop-bishop",
+    "creator": "absempere",
+    "authors": "Anindita Basu Sempere",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Reactions",
+          "color": "#ADFEFF"
+        },
+        {
+          "color": "#F7ED78",
+          "category": "Notes"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "category": "Notes",
+          "tag": "Punctuation"
+        }
+      ]
+    },
+    "created_at": "2024-09-30T13:20:19.097Z",
+    "updated_at": "2024-10-07T16:25:09.591Z"
+  }
+}
