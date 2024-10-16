@@ -81,28 +81,6 @@
       ]
     },
     {
-      "type": "event-comparison",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "event1": {
-        "uuid": "73b63414-a6e4-4dd5-b5a4-d2ef246b9443",
-        "file": "fbd2b4e6-3688-4d80-847f-d43813a11500"
-      },
-      "event2": {
-        "uuid": "167acb03-b6a5-4074-9b8a-2de306112e0b",
-        "file": "41d56152-25f8-4252-bab2-2f4a929ebab8"
-      },
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -111,14 +89,14 @@
       ]
     }
   ],
-  "title": "Comparison test",
+  "title": "Clip test",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "comparison-test",
+  "slug": "clip-test",
   "created_at": "2024-10-16T16:46:30.240Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-16T16:51:53.044Z",
+  "updated_at": "2024-10-16T16:56:00.423Z",
   "updated_by": "absempere"
 }
