@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "2c7079ca-54d6-44ff-b4bb-7c4f5e9ec81a",
+        "file": "56a76fa1-34bb-4747-9e3f-dc50fa776b7b"
+      },
+      "event2": {
+        "uuid": "29b41482-ce45-4dc1-a37b-264764302902",
+        "file": "47dba8c2-bfdd-47f3-971d-c73c2754515a"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Comparison test",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "comparison-test",
+  "created_at": "2024-10-16T16:46:30.240Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-16T16:46:30.240Z",
+  "updated_by": "absempere"
+}
